@@ -1,4 +1,4 @@
-## Electron React Starter
+## Eccomerce 
 
 In the project directory, you can run:
 
