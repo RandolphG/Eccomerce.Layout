@@ -1,6 +1,6 @@
 # Ecommerce
 
-![Ecommerce](https://github.com/RandolphG/eccomerce-react-electron/blob/master/_eccomerce.gif?raw=true)
+![Ecommerce](https://github.com/RandolphG/eccomerce-react-electron/blob/master/public/_eccomerce.gif?raw=true)
 
 ### Installation process :
 
